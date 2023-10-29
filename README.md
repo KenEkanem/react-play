@@ -116,7 +116,7 @@ if you don't have `yarn` installed on your PC, follow the steps below to install
 1. open terminal and hit `npm install --global yarn`
 
 **MacOS**
-1. open terminal and hit `npm install --global yarn`
+ and hit `npm install --global yarn`
 or
 `brew install yarn`
 
